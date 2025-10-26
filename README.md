@@ -2,7 +2,7 @@
 
 **Title:** [Car Sales Performance](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/car_sales_data.%20-%20Seyi.xlsx)
 
-**Tools Used:** Microsoft Excel (Pivot Table, Charts, Slicers, Conditional Formating, Timelines, Data cleaning)
+**Tools Used:** Microsoft Excel (Pivot Table, Pivot Charts, Slicers, Conditional Formating, Timelines, Data cleaning)
 
 **Project Description:** The Car Sales Performance: 2016-2020 provides an in-depth analysis of car sales across multiple manufacturers over a five-year period. It offers insights into sales by manufacturer, production year, engine size, fuel type, and individual model performance. This project is designed for automotive analysts, market researchers, and business stakeholders to identify trends, understand consumer preferences, and monitor market performance across different vehicle categories.
 
@@ -17,6 +17,14 @@ _Engine Size Sales Value_ – Revenue distribution by engine displacement.
 _Fuel Type Pricing Overview_ – Comparison of sales value across petrol, diesel, and hybrid vehicles.
 
 _Sales Value by Model_ – Top-performing models by revenue contribution.
+
+Additionally, the dashboard includes interactive slicers and timelines for:
+
+_Year of Manufacture_: Focus on specific model years or ranges to analyze trends over time.
+
+_Manufacturer_: Drill down into the performance of individual car brands.
+
+_Model/Engine/Fuel Type_: Explore sales performance by specific models, engine sizes, or fuel types
 
 **Key findings:** 
 1. _Sales by Manufacturer_: Toyota leads with £180M, followed by Ford (£159.6M), VW (£154.5M), BMW (£121.3M), and Porsche (£75.9M).
@@ -38,7 +46,7 @@ Ford Mondeo – £65.5M
 VW Passat & Golf – £62.8M and £52.3M respectively
 Toyota Prius – £58.4M
 
-Certain flagship models for each brand drive a large portion of revenue, indicating strong brand loyalty.
+This dashboard serves as a vital tool for automotive stakeholders, offering clear, actionable insights that support data-driven decision-making and strategic planning.
 
 **Dashboard Overview:** <img width="1875" height="620" alt="Car_Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/cab557ee-c0c2-4853-a463-1ca96786887f" />
 
