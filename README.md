@@ -9,8 +9,9 @@
 **Key findings:**
 
 **Dashboard Overview:**
+<img width="1875" height="620" alt="Car_Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/cab557ee-c0c2-4853-a463-1ca96786887f" />
 
-![Car_Sales](Car_Sales.png)
+
 
 # Project 2
 
