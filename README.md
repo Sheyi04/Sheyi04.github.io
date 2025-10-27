@@ -48,7 +48,7 @@ Toyota Prius – £58.4M
 
 This dashboard serves as a vital tool for automotive stakeholders, offering clear, actionable insights that support data-driven decision-making and strategic planning.
 
-**Dashboard Overview:** <img width="1875" height="620" alt="Car_Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/cab557ee-c0c2-4853-a463-1ca96786887f" />
+**Dashboard Overview:** <p align="center"> <img src="https://github.com/user-attachments/assets/cab557ee-c0c2-4853-a463-1ca96786887f" alt="Car_Sales_Performance_Dashboard" style="max-width: 100%; height: auto; border-radius: 6px;"> </p>
 
 
 
