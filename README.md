@@ -54,12 +54,43 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 # Project 2
 
-**Title:** Employee Data
+**Title:** Workforce Data and Project Allocation Report
 
 **SQL Code:** [HR Database-SQL Code](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Employee.SQL)
 
-**SQL Skills Used:** 
+**SQL Skills Used:** SELECT, WHERE, BETWEEN, LIKE, UNION
 
-**Project Description:**
+Aggregate functions: MAX(), MIN(), AVG()
 
-**Technology used:** SQL server 
+Filtering and conditional queries
+
+Pattern matching using LIKE
+
+Range-based data extraction
+
+Unique value extraction
+
+Calculated fields (Salary + Variable)
+
+Table comparison using UNION
+
+**Project Description:** Workforce Data and Project Allocation Report is a simple SQL-based data analysis project created using two datasets: Employee Details and Employee Salary.
+The project demonstrates the ability to query relational data to answer HR- and payroll-related business questions such as:
+
+Identifying employees under a given manager
+
+Extracting unique project assignments
+
+Calculating employee salary ranges and averages
+
+Finding project-wise employee counts
+
+Filtering employees based on location, manager, project type
+
+Combining employee identifiers across tables
+
+Computing derived salary fields (salary + variable)
+
+This project highlights foundational SQL query writing and the ability to convert business requirements into actionable database queries.
+
+**Technology used:** SQL server, SSMS (SQL Server Management Studio)
