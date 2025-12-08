@@ -60,37 +60,84 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 **SQL Skills Used:** SELECT, WHERE, BETWEEN, LIKE, UNION
 
-Aggregate functions: MAX(), MIN(), AVG()
+Aggregate functions: 
 
-Filtering and conditional queries
+_MAX(), MIN(), AVG()_
 
-Pattern matching using LIKE
+_Filtering and conditional queries_
 
-Range-based data extraction
+_Pattern matching using LIKE_
 
-Unique value extraction
+_Range-based data extraction_
 
-Calculated fields (Salary + Variable)
+_Unique value extraction_
 
-Table comparison using UNION
+_Calculated fields (Salary + Variable)_
+
+_Table comparison using UNION_
 
 **Project Description:** Workforce Data and Project Allocation Report is a simple SQL-based data analysis project created using two datasets: Employee Details and Employee Salary.
 The project demonstrates the ability to query relational data to answer HR- and payroll-related business questions such as:
 
-Identifying employees under a given manager
+_Identifying employees under a given manager_
 
-Extracting unique project assignments
+_Extracting unique project assignments_
 
-Calculating employee salary ranges and averages
+_Calculating employee salary ranges and averages_
 
-Finding project-wise employee counts
+_Finding project-wise employee counts_
 
-Filtering employees based on location, manager, project type
+_Filtering employees based on location, manager, project type_
 
-Combining employee identifiers across tables
+_Combining employee identifiers across tables_
 
-Computing derived salary fields (salary + variable)
+_Computing derived salary fields (salary + variable)_
 
 This project highlights foundational SQL query writing and the ability to convert business requirements into actionable database queries.
 
 **Technology used:** SQL server, SSMS (SQL Server Management Studio)
+
+
+
+# Project 3
+
+**Title:** Product Sales Performance Report
+
+**Tools Used:** Power BI Desktop (Column Chart, Bar Chart, Line Chart, Donut Chart, Table Visual, Card Visual, Slicer, Visual formatting & dashboard layout, Basic DAX Measures)
+
+**Project Description:** This project presents a Power BI dashboard that analyzes product sales performance over a three-month period (September–November). The report focuses on identifying sales patterns across customers, sales reps, product titles, and product categories. Visual elements such as bar charts, column charts, line charts, tables, card visuals, and slicers were used to create a clear and interactive analytical experience.
+
+The dashboard highlights:
+
+_Monthly sales trends_
+
+_Top 10 customers by sales volume_
+
+_Performance of sales representatives_
+
+_Best-selling product items and categories_
+
+_Total sales units achieved_
+
+_Key insights, including the impact of promotions on October sales_
+
+This report demonstrates skills in data visualization, dashboard design, and insight generation using Power BI.
+
+**Key findings:**
+
+1. October recorded the highest sales, driven primarily by promotional activity on Puregro Rice products.
+
+2. Puregro Rice was the top-performing product category, contributing the largest share of total sales volume (over one-third of overall units).
+
+3. Viva Mart Limited was the top customer, generating the highest number of sales units among all buyer accounts.
+
+4. Sales Rep 2 outperformed all other sales reps, achieving the highest sales volume during the period.
+
+5. Top items such as Puregro Golden Sella Basmati Rice consistently dominated sales, indicating strong customer demand for rice products.
+
+6. Sales in November slightly declined compared to October, suggesting the promotional boost did not continue into the following month.
+
+   **Dashboard Overview:**
+   <img width="1386" height="772" alt="image" src="https://github.com/user-attachments/assets/881577f9-2546-4f54-8511-c985ca1d0564" />
+
+
