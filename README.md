@@ -138,7 +138,7 @@ This report demonstrates skills in data visualization, dashboard design, and ins
 6. Sales in November slightly declined compared to October, suggesting the promotional boost did not continue into the following month.
 
    **Dashboard Overview:**
-   <img width="1362" height="760" alt="image" src="https://github.com/user-attachments/assets/58980b1a-049f-411f-80b7-e25b471c86b2" />
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/58980b1a-049f-411f-80b7-e25b471c86b2)
 
 
 
