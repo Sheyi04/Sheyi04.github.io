@@ -101,7 +101,7 @@ This project highlights foundational SQL query writing and the ability to conver
 
 # Project 3
 
-**Title:** Product Sales Performance Report
+**Title:** [Product Sales Performance Report](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Product%20Sales%20Performance%20Report.pbix)
 
 **Tools Used:** Power BI Desktop (Column Chart, Bar Chart, Line Chart, Donut Chart, Table Visual, Card Visual, Slicer, Visual formatting & dashboard layout, Basic DAX Measures)
 
