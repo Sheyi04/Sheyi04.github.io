@@ -1,8 +1,57 @@
 # Project 1
 
+**Title:**
+
+**Tools Used:** Microsoft Excel (PivotTable, PivotCharts, Slicers, Dynamic Array Functions (VSTACK, UNIQUE), Conditional Formatting, Data Cleaning & Transformation)
+
+**Project Description:** This project showcases an interactive Excel financial dashboard designed to analyse actual vs budget performance for the 2024 period. The dashboard provides a clear, executive-level view of financial results, including total actuals, budgets, variances, and variance percentages. Users can explore performance by department, account, and month using slicers, enabling both high-level insights and detailed variance analysis. The solution is built entirely in Microsoft Excel, without relying on external BI tools.
+
+The dashboard includes the following analyses:
+
+Overall actual vs budget performance with variance and variance percentage
+
+Actual vs budget comparison by department
+
+Variance analysis by department to identify over- and under-performance
+
+Monthly actual vs budget trend analysis
+
+Best and worst performing departments based on variance
+
+Account-level variance breakdown
+
+Key insights highlighting the main drivers of financial performance
+
+**Key findings:** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Project 1
+
 **Title:** [Car Sales Performance](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Car%20Sales%20Perfomance%20(2016-2020).xlsx)
 
-**Tools Used:** Microsoft Excel (Pivot Table, Pivot Charts, Slicers, Conditional Formating, Timelines, Data cleaning)
+**Tool Used:** Microsoft Excel (PivotTable, PivotCharts, Slicers, Conditional Formatting, Timelines, Data Cleaning & Transformation)
 
 **Project Description:** The Car Sales Performance: 2016-2020 provides an in-depth analysis of car sales across multiple manufacturers over a five-year period. It offers insights into sales by manufacturer, production year, engine size, fuel type, and individual model performance. This project is designed for automotive analysts, market researchers, and business stakeholders to identify trends, understand consumer preferences, and monitor market performance across different vehicle categories.
 
