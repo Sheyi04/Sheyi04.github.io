@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:**
+**Title:** 
 
 **Tools Used:** Microsoft Excel (PivotTable, PivotCharts, Slicers, Dynamic Array Functions (VSTACK, UNIQUE), Conditional Formatting, Data Cleaning & Transformation)
 
