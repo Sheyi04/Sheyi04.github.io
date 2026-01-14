@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** 
+**Title:** [Excel Financial Dashboard – Actual vs Budget Analysis (2024)](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Excel%20Financial%20Dashboard%20%E2%80%93%20Actual%20vs%20Budget%20Analysis%20(2024).xlsx)
 
 **Tools Used:** Microsoft Excel (PivotTable, PivotCharts, Slicers, Dynamic Array Functions (VSTACK, UNIQUE), Conditional Formatting, Data Cleaning & Transformation)
 
@@ -46,7 +46,7 @@ _Key insights highlighting the main drivers of financial performance_
 
 5. Use the dashboard as an ongoing management tool, not just a reporting output, to support informed decision-making, accountability, and improved financial discipline.
 
-**Dashboard Overview:** <img width="1865" height="617" alt="image" src="https://github.com/user-attachments/assets/daccafe9-f22b-4ec7-aac0-b5fa2db137e3" />
+**Dashboard Overview:** ![Actual_vs_Budget_Financial_Performance_2024](Actual_vs_Budget_Financial_Performance_2024.png)
 
 # Project 2
 
