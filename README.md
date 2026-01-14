@@ -8,46 +8,47 @@
 
 The dashboard includes the following analyses:
 
-Overall actual vs budget performance with variance and variance percentage
+_Overall actual vs budget performance with variance and variance percentage_
 
-Actual vs budget comparison by department
+_Actual vs budget comparison by department_
 
-Variance analysis by department to identify over- and under-performance
+_Variance analysis by department to identify over- and under-performance_
 
-Monthly actual vs budget trend analysis
+_Monthly actual vs budget trend analysis_
 
-Best and worst performing departments based on variance
+_Best and worst performing departments based on variance_
 
-Account-level variance breakdown
+_Account-level variance breakdown_
 
-Key insights highlighting the main drivers of financial performance
+_Key insights highlighting the main drivers of financial performance_
 
 **Key findings:** 
+1. Overall financial performance for 2024 was close to budget, with a small unfavourable variance of £81,857 (-0.06%), indicating effective budget control at an aggregate level.
 
+2. Finance was the best-performing department, delivering a favourable variance that helped offset overspends in other areas.
 
+3. Sales recorded the largest unfavourable variance, making it the primary driver of overall budget underperformance.
 
+4. Marketing also exceeded budget, contributing to the negative variance despite strong performance in other departments.
 
+5. At an account level, Product Revenue and Salaries performed favourably against budget, while Marketing Spend and Software Licences showed notable overspends.
 
+6. Monthly trend analysis shows fluctuations throughout the year, with certain months outperforming budget and others falling below expectations, highlighting the importance of ongoing monitoring rather than relying solely on year-end results.
 
+**Business Recommendations:**
+1. Strengthen cost controls in Sales and Marketing by reviewing campaign spend, commission structures, and discretionary expenses, as these areas were the primary drivers of the unfavourable variance.
 
+2. Leverage Finance’s strong budget performance by identifying best practices in forecasting and expense management that can be applied across other departments.
 
+3. Implement regular month-by-month variance reviews using the dashboard to detect emerging overspends early and take corrective action before year-end.
 
+4. Investigate recurring account-level overspends, particularly in Marketing Spend and Software Licences, to determine whether budgets should be revised or controls tightened.
 
+5. Use the dashboard as an ongoing management tool, not just a reporting output, to support informed decision-making, accountability, and improved financial discipline.
 
+**Dashboard Overview:** <img width="1865" height="617" alt="image" src="https://github.com/user-attachments/assets/daccafe9-f22b-4ec7-aac0-b5fa2db137e3" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Project 1
+# Project 2
 
 **Title:** [Car Sales Performance](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Car%20Sales%20Perfomance%20(2016-2020).xlsx)
 
@@ -101,7 +102,7 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 
 
-# Project 2
+# Project 3
 
 **Title:** Workforce Data and Project Allocation Report
 
@@ -148,7 +149,7 @@ This project highlights foundational SQL query writing and the ability to conver
 
 
 
-# Project 3
+# Project 4
 
 **Title:** [Product Sales Performance Report](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Product%20Sales%20Performance%20Report.pbix)
 
