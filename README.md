@@ -104,7 +104,7 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 # Project 3
 
-**Title:** Workforce Data and Project Allocation Report
+**Title:** SQL Query Report - Employee & Salary Database
 
 **SQL Code:** [SQL Query Report - Employee & Salary Database.sql](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/SQL%20Query%20Report%20-%20Employee%20%26%20Salary%20Database.sql)
 
