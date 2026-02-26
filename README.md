@@ -126,7 +126,7 @@ _Calculated fields (Salary + Variable)_
 
 _Table comparison using UNION_
 
-**Project Description:** Workforce Data and Project Allocation Report is a simple SQL-based data analysis project created using two datasets: Employee Details and Employee Salary.
+**Project Description:** SQL Query Report - Employee & Salary Database is a simple SQL-based data analysis project created using two datasets: Employee Details and Employee Salary.
 The project demonstrates the ability to query relational data to answer HR- and payroll-related business questions such as:
 
 _Identifying employees under a given manager_
