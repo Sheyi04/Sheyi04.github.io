@@ -106,7 +106,7 @@ This dashboard serves as a vital tool for automotive stakeholders, offering clea
 
 **Title:** Workforce Data and Project Allocation Report
 
-**SQL Code:** [SQL Query Practice – Employee & Salary Database.SQL](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Employee.SQL)
+**SQL Code:** [SQL Query Report - Employee & Salary Database.sql](https://github.com/Sheyi04/Sheyi04.github.io/blob/main/Employee.SQL)
 
 **SQL Skills Used:** SELECT, WHERE, BETWEEN, LIKE, UNION
 
